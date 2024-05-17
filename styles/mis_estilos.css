@@ -2,3 +2,13 @@
     background-color: bisque;
     margin: 2px;
 }
+
+.centered-image {
+    text-align: center;
+
+}
+.centered-image img {
+    display: block;
+    margin: auto;
+
+}
